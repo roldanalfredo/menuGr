@@ -3,8 +3,8 @@ on:
   push:
     paths:
       - 'carta.pdf'
+      - 'extraer.py'
 
-# ESTA ES LA CLAVE: Forzamos a GitHub a usar Node 24 ahora mismo
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -21,15 +21,25 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependencias
-        run: pip install pdfplumber
+        run: |
+          python -m pip install --upgrade pip
+          pip install pdfplumber
 
       - name: Extraer datos
-        run: python Extraer.py
+        run: |
+          # Esto nos asegura que estamos en la carpeta correcta
+          python extraer.py
 
       - name: Hacer commit del JSON
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add menu.json
-          git commit -m "Update menu.json from PDF" || exit 0
-          git push
+          # Agregamos el archivo si existe, si no, no falla
+          if [ -f menu.json ]; then
+            git add menu.json
+            git commit -m "Update menu.json from PDF" || echo "No hay cambios"
+            git push || echo "No hay nada para pushear"
+          else
+            echo "Error: menu.json no fue generado"
+            exit 1
+          fi
