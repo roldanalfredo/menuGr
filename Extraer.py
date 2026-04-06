@@ -2,6 +2,7 @@ import pdfplumber
 import json
 import os
 
+#
 def generar_menu():
     pdf_path = 'carta.pdf' # El archivo que vas a subir
     if not os.path.exists(pdf_path):
