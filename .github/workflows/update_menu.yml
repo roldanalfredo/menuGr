@@ -24,7 +24,7 @@ jobs:
         run: pip install pdfplumber
 
       - name: Extraer datos
-        run: python extraer.py
+        run: python Extraer.py
 
       - name: Hacer commit del JSON
         run: |
