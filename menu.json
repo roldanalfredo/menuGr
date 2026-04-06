@@ -1,0 +1,940 @@
+[
+    {
+        "nombre": "$",
+        "precio": "21.000"
+    },
+    {
+        "seccion": "CROQUETAS DE JAMON IBERICO"
+    },
+    {
+        "seccion": "BERENJENA AL JOSPER $ 17.000"
+    },
+    {
+        "seccion": "................"
+    },
+    {
+        "seccion": "......................................."
+    },
+    {
+        "seccion": "Con ensalada de verdes y lascas de jamón crudo."
+    },
+    {
+        "seccion": "Con stracciatella y hojas de alcaparra."
+    },
+    {
+        "seccion": "HALLOUMI AL HORNO DE LEÑA $ 17.000"
+    },
+    {
+        "nombre": "$",
+        "precio": "23.000"
+    },
+    {
+        "seccion": "........... TARTAR DE TRUCHA Y PALTA"
+    },
+    {
+        "seccion": "........................."
+    },
+    {
+        "seccion": "Con alioli de hierbas y arvejas tostadas."
+    },
+    {
+        "seccion": "Cilantro, salsa de miel, soja y sésamo."
+    },
+    {
+        "seccion": "ENSALADA DE LA"
+    },
+    {
+        "nombre": "$",
+        "precio": "25.000"
+    },
+    {
+        "seccion": "CALAMARETTIS Y ZUCCHINIS"
+    },
+    {
+        "seccion": ".........................."
+    },
+    {
+        "seccion": "$ 19.000"
+    },
+    {
+        "seccion": "HUERTA ORGANICA Con alioli de palta y lima."
+    },
+    {
+        "seccion": "..............................................."
+    },
+    {
+        "seccion": "Flores silvestres, microverdes, palta, portobellos"
+    },
+    {
+        "nombre": "$",
+        "precio": "62.000"
+    },
+    {
+        "seccion": "MOLLEJAS ASADAS"
+    },
+    {
+        "seccion": "................................................................"
+    },
+    {
+        "seccion": "asados y almíbar jalapeño."
+    },
+    {
+        "seccion": "Con ensaladita latina y chips de mandioca."
+    },
+    {
+        "seccion": "$ 20.000"
+    },
+    {
+        "seccion": "BAO DE LANGOSTINOS"
+    },
+    {
+        "seccion": "..........................................."
+    },
+    {
+        "nombre": "$",
+        "precio": "78.000"
+    },
+    {
+        "seccion": "PULPO ESPAÑOL AL HIERRO"
+    },
+    {
+        "seccion": "..................................."
+    },
+    {
+        "seccion": "Con mayonesa de siracha y chips de boniato."
+    },
+    {
+        "seccion": "Con papas crocantes, oliva y pimentón español."
+    },
+    {
+        "seccion": "GNOCCHIS SOUFFLÉ DE QUESO"
+    },
+    {
+        "nombre": "$",
+        "precio": "39.000"
+    },
+    {
+        "seccion": "PECHUGAS PAOLA"
+    },
+    {
+        "seccion": "$ 37.000"
+    },
+    {
+        "seccion": "AL FORNO ................................................"
+    },
+    {
+        "seccion": ".................................................................................."
+    },
+    {
+        "seccion": "Con papas crocantes y salsa de limón."
+    },
+    {
+        "seccion": "Con queso toscano y pangrattato."
+    },
+    {
+        "nombre": "$",
+        "precio": "46.000"
+    },
+    {
+        "seccion": "PESCA DEL DÍA"
+    },
+    {
+        "seccion": "..........................................................."
+    },
+    {
+        "seccion": "TORTELLIS DE ESPINACA"
+    },
+    {
+        "seccion": "Con puré de zanahorias y chips de papines andinos."
+    },
+    {
+        "seccion": "$ 39.000"
+    },
+    {
+        "seccion": "Y MASCARPONE"
+    },
+    {
+        "seccion": "................................................................"
+    },
+    {
+        "nombre": "$",
+        "precio": "48.000"
+    },
+    {
+        "seccion": "MILANESA DE BIFE ANGOSTO"
+    },
+    {
+        "seccion": ".........."
+    },
+    {
+        "seccion": "Con manteca de habas orgánicas y girgolas asadas."
+    },
+    {
+        "seccion": "Con rucula, parmesano y vinagreta de tomate"
+    },
+    {
+        "seccion": "TAGLIOLINIS CON o"
+    },
+    {
+        "seccion": "tagliolini cacio e pepe."
+    },
+    {
+        "seccion": "$ 37.000 RISOTTO DE ESPINACA Y"
+    },
+    {
+        "seccion": "STRACCIATELLA"
+    },
+    {
+        "seccion": "................................................................"
+    },
+    {
+        "nombre": "Con tomates asados, hinojos confitados y albahaca limon. $",
+        "precio": "51.000"
+    },
+    {
+        "seccion": "MASCARPONE"
+    },
+    {
+        "seccion": "............................................................."
+    },
+    {
+        "seccion": "Con langostinos curados."
+    },
+    {
+        "seccion": "$ 41.000"
+    },
+    {
+        "seccion": "LASAGNA VERDE VEGETARIANA"
+    },
+    {
+        "seccion": "........"
+    },
+    {
+        "seccion": "Con espinacas, berenjenas asadas, ragú de"
+    },
+    {
+        "seccion": "portobellos, quartirolo y tomate italiano."
+    },
+    {
+        "nombre": "$",
+        "precio": "39.000"
+    },
+    {
+        "seccion": "POLLO DE CAMPO A LA LEÑA"
+    },
+    {
+        "seccion": "..................."
+    },
+    {
+        "seccion": "Lechuga baby orgánica y queso sardo."
+    },
+    {
+        "seccion": "HAMBURGUESA $ 34.000"
+    },
+    {
+        "seccion": "..............................................................."
+    },
+    {
+        "nombre": "LOMO A LA PIMIENTA $",
+        "precio": "70.000"
+    },
+    {
+        "seccion": "..........................................."
+    },
+    {
+        "seccion": "Tomate reliquia, cheddar, cebolla crocante y salsa mil islas."
+    },
+    {
+        "seccion": "Mix de pimientas, portobellos, papa rosti"
+    },
+    {
+        "seccion": "$ 49.000"
+    },
+    {
+        "seccion": "y fondo de cocción."
+    },
+    {
+        "seccion": "TRUCHA PATAGONICA"
+    },
+    {
+        "seccion": "......................................"
+    },
+    {
+        "seccion": "Con carpaccio de tomates reliquia, zucchinis y ciruelas."
+    },
+    {
+        "nombre": "$",
+        "precio": "80.000"
+    },
+    {
+        "seccion": "VACÍO CRIOLLO"
+    },
+    {
+        "seccion": ".............................................................."
+    },
+    {
+        "seccion": "Con terrina de papa crocante y echalotes confitados."
+    },
+    {
+        "seccion": "$ 72.000"
+    },
+    {
+        "seccion": "BIFE DE CHORIZO"
+    },
+    {
+        "seccion": "........................................................."
+    },
+    {
+        "seccion": "Con papas fritas trufadas y salsa bearnesa."
+    },
+    {
+        "seccion": "$ 77.000"
+    },
+    {
+        "seccion": "OJO DE BIFE"
+    },
+    {
+        "seccion": "............................................................................."
+    },
+    {
+        "nombre": "$",
+        "precio": "8.000"
+    },
+    {
+        "seccion": "PURE DE PAPA / ZANAHORIA"
+    },
+    {
+        "seccion": "CASI C RUDO ...................."
+    },
+    {
+        "seccion": "/BLEU"
+    },
+    {
+        "seccion": "/ RARE"
+    },
+    {
+        "seccion": "TIPS: VUE LTA Y VUE LTA - CENT RO CRUDO - CALIENTE"
+    },
+    {
+        "nombre": "PAPAS FRITAS $",
+        "precio": "8.000"
+    },
+    {
+        "seccion": "......................................................................."
+    },
+    {
+        "seccion": "JUGOSO"
+    },
+    {
+        "seccion": "/ SAIG NANT /MEDIUM RARE"
+    },
+    {
+        "seccion": "TIPS: CENT RO ROJO - MUCHOS JUGOS"
+    },
+    {
+        "nombre": "$",
+        "precio": "9.000"
+    },
+    {
+        "seccion": "BONIATO ASADO"
+    },
+    {
+        "seccion": "............................................................"
+    },
+    {
+        "seccion": "A PUN TO/"
+    },
+    {
+        "seccion": "A POINT / MEDIUM"
+    },
+    {
+        "seccion": "TIPS: CENT RO ROSADO - POCOS JUGOS"
+    },
+    {
+        "seccion": "BIEN COCIDO"
+    },
+    {
+        "seccion": "/ BIEN CUIT / WELL DONE"
+    },
+    {
+        "seccion": "SI USTED ES ALÉRGICO A ALGÚN ALIMENTO,"
+    },
+    {
+        "seccion": "TIPS: TODO GRIS - CASI SIN JUGOS"
+    },
+    {
+        "seccion": "HAGASELO SABER AL CAMARERO ANTES DE ORDENAR"
+    },
+    {
+        "nombre": "",
+        "precio": "$17.000"
+    },
+    {
+        "seccion": "TORTA VASCA"
+    },
+    {
+        "seccion": "$12.000"
+    },
+    {
+        "seccion": "HELADO"
+    },
+    {
+        "seccion": "................................................................................."
+    },
+    {
+        "seccion": "........................................................................................"
+    },
+    {
+        "seccion": "Torta de mascarpone y queso crema"
+    },
+    {
+        "seccion": "Chocolate intenso/ Crema americana/ Pistacchio."
+    },
+    {
+        "seccion": "con hígos en almíbar"
+    },
+    {
+        "seccion": "$15.000"
+    },
+    {
+        "seccion": "COPA DE FRUTILLAS"
+    },
+    {
+        "seccion": ".........................................................................................."
+    },
+    {
+        "nombre": "CAPRICHOSO",
+        "precio": "$17.000"
+    },
+    {
+        "seccion": "...................................................................................."
+    },
+    {
+        "seccion": "Con chocolate Blanco y Pistachos crocante."
+    },
+    {
+        "seccion": "Helado de crema americana, salsa de chocolate"
+    },
+    {
+        "seccion": "y de dulce de leche con pecans, cajú y pistachos confitados."
+    },
+    {
+        "seccion": "$15.000"
+    },
+    {
+        "seccion": "FLAN DE SUPER DULCE DE LECHE"
+    },
+    {
+        "seccion": "......."
+    },
+    {
+        "nombre": "",
+        "precio": "$18.000"
+    },
+    {
+        "seccion": "VOLCÁN DE CHOCOLATE"
+    },
+    {
+        "seccion": "........................................."
+    },
+    {
+        "seccion": "$15.000"
+    },
+    {
+        "seccion": "TARTE TATAN"
+    },
+    {
+        "seccion": "80% cacao y helado de vainilla."
+    },
+    {
+        "seccion": "..............................................................."
+    },
+    {
+        "seccion": "Torta de manzana invertida y helado de vainilla."
+    },
+    {
+        "nombre": "",
+        "precio": "$18.000"
+    },
+    {
+        "seccion": "CREME BRÜLÉE DE VAINILLA"
+    },
+    {
+        "seccion": "................................."
+    },
+    {
+        "nombre": "SERVICIO DE MESA",
+        "precio": "$4.000"
+    },
+    {
+        "seccion": "Cocktails"
+    },
+    {
+        "seccion": "de Autor"
+    },
+    {
+        "seccion": "Clásicos"
+    },
+    {
+        "seccion": "$11.000"
+    },
+    {
+        "seccion": "SPRING WINE"
+    },
+    {
+        "seccion": "........................................................................."
+    },
+    {
+        "nombre": "",
+        "precio": "$11.000"
+    },
+    {
+        "seccion": "NEGRONI"
+    },
+    {
+        "seccion": "................................................................................................"
+    },
+    {
+        "seccion": "Vino rosé, Martini Dry, almíbar de huacatay,"
+    },
+    {
+        "seccion": "Gin, Campari, Carpano rosso."
+    },
+    {
+        "seccion": "tónica y frutos rojos."
+    },
+    {
+        "nombre": "",
+        "precio": "$11.000"
+    },
+    {
+        "seccion": "PAPER PLANE"
+    },
+    {
+        "seccion": "..............................................................................."
+    },
+    {
+        "seccion": "$13.000"
+    },
+    {
+        "seccion": "RICHARD Aperol, bourbon, amaro y limón."
+    },
+    {
+        "seccion": "........................................................................................"
+    },
+    {
+        "seccion": "Absolut, maracuyá, naranja, frutos rojos y almíbar."
+    },
+    {
+        "nombre": "PISCO SOUR",
+        "precio": "$11.000"
+    },
+    {
+        "seccion": "......................................................................................"
+    },
+    {
+        "seccion": "Pisco, limón, almíbar y clara de huevo."
+    },
+    {
+        "seccion": "$13.000"
+    },
+    {
+        "seccion": "PINEAPPLE PUNCH"
+    },
+    {
+        "seccion": "..................................................."
+    },
+    {
+        "nombre": "CYNAR JULEP",
+        "precio": "$11.000"
+    },
+    {
+        "seccion": "Ananá, nuez, ron Bacardi, Frangelico, limón"
+    },
+    {
+        "seccion": ".................................................................................."
+    },
+    {
+        "seccion": "Cynar, pomelo, limón, menta y almíbar."
+    },
+    {
+        "seccion": "malvavisco de limón."
+    },
+    {
+        "nombre": "MOSCOW MULE",
+        "precio": "$12.000"
+    },
+    {
+        "seccion": "........................................................................."
+    },
+    {
+        "seccion": "$13.000"
+    },
+    {
+        "seccion": "BERRIES COBBLER"
+    },
+    {
+        "seccion": "....................................................."
+    },
+    {
+        "seccion": "Vodka, Ginger Beer, lima, menta y almíbar."
+    },
+    {
+        "seccion": "Bombay Sapphire, Martini Dry, maracuyá,"
+    },
+    {
+        "nombre": "",
+        "precio": "$12.000"
+    },
+    {
+        "seccion": "Cassis, pomelo, frutos rojos y almíbar. CARAJILLO"
+    },
+    {
+        "seccion": "..........................................................................................."
+    },
+    {
+        "nombre": "Cold brew y Licor",
+        "precio": "43."
+    },
+    {
+        "nombre": "",
+        "precio": "$12.000"
+    },
+    {
+        "seccion": "OLD FASHIONED"
+    },
+    {
+        "seccion": "......................................................................"
+    },
+    {
+        "seccion": "Exclusivos"
+    },
+    {
+        "seccion": "Bourbon, almíbar, Bitter Angostura y naranja."
+    },
+    {
+        "nombre": "BLOODY MARY",
+        "precio": "$12.000"
+    },
+    {
+        "seccion": "NEGRONI PERFECTO .........................................................................."
+    },
+    {
+        "seccion": "Vodka, jugo de tomate, lima, salsa inglesa, tabasco"
+    },
+    {
+        "seccion": "Gin Mare, Campari y Antica formula."
+    },
+    {
+        "seccion": "y especias."
+    },
+    {
+        "seccion": "$ 16.000"
+    },
+    {
+        "seccion": "GIN TONIC PERFECTO"
+    },
+    {
+        "seccion": "PENICILLIN"
+    },
+    {
+        "nombre": "",
+        "precio": "$16.000"
+    },
+    {
+        "seccion": "......................................................................................."
+    },
+    {
+        "seccion": "Gin Mare, Britvic tonic y limón."
+    },
+    {
+        "seccion": "J. Walker Black, limón, miel y jengibre."
+    },
+    {
+        "seccion": "$ 16.000"
+    },
+    {
+        "nombre": "PALOMA",
+        "precio": "$18.000"
+    },
+    {
+        "seccion": "...................................................................................................."
+    },
+    {
+        "seccion": "Tequila Patron, limón, almíbar, pomelo y soda."
+    },
+    {
+        "seccion": "Mo cktails"
+    },
+    {
+        "seccion": "MOCKTAIL DE HIBISCUS"
+    },
+    {
+        "seccion": "Whiskies"
+    },
+    {
+        "seccion": "Hibiscus, limón, soda y flores."
+    },
+    {
+        "seccion": "$ 8.000"
+    },
+    {
+        "seccion": "ESCOCÉS"
+    },
+    {
+        "seccion": "MOCKTAIL KEYGARDEN"
+    },
+    {
+        "seccion": "Ginger Beer, limón y cordial de pepino."
+    },
+    {
+        "nombre": "Chivas Regal 18 $",
+        "precio": "20.000"
+    },
+    {
+        "nombre": "Chivas Regal 12 $",
+        "precio": "14.000"
+    },
+    {
+        "seccion": ".................. ..........."
+    },
+    {
+        "seccion": "$ 8.000"
+    },
+    {
+        "seccion": "J.WalkerBlack"
+    },
+    {
+        "nombre": "$ 15.000 Glenmorangie $",
+        "precio": "20.000"
+    },
+    {
+        "seccion": "................ ................."
+    },
+    {
+        "seccion": "LIMONADA"
+    },
+    {
+        "nombre": "Chivas Mizunara $",
+        "precio": "16.000"
+    },
+    {
+        "nombre": "Menta y Jengibre. Macallan 12 $",
+        "precio": "46.000"
+    },
+    {
+        "seccion": ".........."
+    },
+    {
+        "seccion": "................."
+    },
+    {
+        "nombre": "The Glenfiddich 12$",
+        "precio": "17.000"
+    },
+    {
+        "seccion": "$11.000"
+    },
+    {
+        "seccion": ".... ."
+    },
+    {
+        "nombre": "Royal Salute $",
+        "precio": "65.000"
+    },
+    {
+        "seccion": "..................."
+    },
+    {
+        "seccion": "The Glenlivet"
+    },
+    {
+        "nombre": "J.Walker Blue $",
+        "precio": "90.000"
+    },
+    {
+        "nombre": "$ 1",
+        "precio": "7.000"
+    },
+    {
+        "seccion": "Founders Reserve"
+    },
+    {
+        "seccion": "............."
+    },
+    {
+        "seccion": "... ..... .. .."
+    },
+    {
+        "nombre": "Macallan 18",
+        "precio": "$165.000"
+    },
+    {
+        "nombre": "J.Walker Gold $",
+        "precio": "18.000"
+    },
+    {
+        "seccion": "................."
+    },
+    {
+        "seccion": "................"
+    },
+    {
+        "seccion": "$ 7.000"
+    },
+    {
+        "seccion": "Stella Artois 0.0 (sin alcohol)"
+    },
+    {
+        "seccion": "..............."
+    },
+    {
+        "seccion": "Corona $ 8.000"
+    },
+    {
+        "seccion": "..........................................................................."
+    },
+    {
+        "seccion": "IRLANDÉS AMERICANO"
+    },
+    {
+        "seccion": "$ 9.000"
+    },
+    {
+        "seccion": "Stella Artois (chopp)"
+    },
+    {
+        "seccion": "........................................"
+    },
+    {
+        "nombre": "Jameson $ 12.000 Jack Daniel´s $",
+        "precio": "14.000"
+    },
+    {
+        "seccion": "..............."
+    },
+    {
+        "seccion": "............................."
+    },
+    {
+        "seccion": "Bebidas e Infusiones"
+    },
+    {
+        "seccion": "Vermouts"
+    },
+    {
+        "seccion": "& Aperitivos"
+    },
+    {
+        "nombre": "Villavicencio 500ml $",
+        "precio": "4.500"
+    },
+    {
+        "seccion": "..........................................................................................."
+    },
+    {
+        "nombre": "$",
+        "precio": "9.000"
+    },
+    {
+        "nombre": "San Pellegrino",
+        "precio": "750ml"
+    },
+    {
+        "seccion": "....................................................................................."
+    },
+    {
+        "seccion": "Carpano Rosso $ 9.000"
+    },
+    {
+        "seccion": "....................................................."
+    },
+    {
+        "nombre": "$",
+        "precio": "9.000"
+    },
+    {
+        "nombre": "Acqua Panna",
+        "precio": "750ml"
+    },
+    {
+        "seccion": "....................................................................................."
+    },
+    {
+        "seccion": "$10.000"
+    },
+    {
+        "seccion": "Campari Orange"
+    },
+    {
+        "seccion": "................................................ Jugo Natural de Naranja"
+    },
+    {
+        "nombre": "$",
+        "precio": "7.000"
+    },
+    {
+        "seccion": ".........................................................................."
+    },
+    {
+        "seccion": "Fernet Branca Cola $12.000"
+    },
+    {
+        "nombre": "....................................... $",
+        "precio": "5.500"
+    },
+    {
+        "seccion": "Red Bull Energy"
+    },
+    {
+        "seccion": "..................................................................................................."
+    },
+    {
+        "seccion": "$13.000"
+    },
+    {
+        "seccion": "Aperol Spritz"
+    },
+    {
+        "nombre": "Gaseosa $",
+        "precio": "5.000"
+    },
+    {
+        "seccion": "........................................................."
+    },
+    {
+        "seccion": ".........................................................................................................................."
+    },
+    {
+        "nombre": "Server$14.000 Té Twinings $",
+        "precio": "4.000"
+    },
+    {
+        "seccion": "Antica Formula Perfect"
+    },
+    {
+        "seccion": "............... ............................................................................................................."
+    },
+    {
+        "nombre": "Café de especialidad $",
+        "precio": "4.500"
+    },
+    {
+        "seccion": "Hugo - St. Germain Spritz"
+    },
+    {
+        "seccion": "$16.000"
+    },
+    {
+        "seccion": "........................................................................................."
+    },
+    {
+        "seccion": "......................"
+    },
+    {
+        "seccion": "Jack & Cola $16.000"
+    },
+    {
+        "seccion": "........................................................."
+    }
+]
