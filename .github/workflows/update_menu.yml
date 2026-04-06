@@ -1,0 +1,26 @@
+name: Actualizar Menu desde PDF
+on:
+  push:
+    paths:
+      - 'carta.pdf'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Instalar dependencias
+        run: pip install pdfplumber
+      - name: Extraer datos
+        run: python extraer.py
+      - name: Hacer commit del JSON
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add menu.json
+          git commit -m "Update menu.json from PDF" || exit 0
+          git push
